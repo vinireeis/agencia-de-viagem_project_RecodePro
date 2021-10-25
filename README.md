@@ -5,7 +5,7 @@ Realizado Diagrama de Classes UML de uma Agencia de Viagem.
 
 ![image](https://user-images.githubusercontent.com/80652060/138637818-822fce98-6765-4527-adcf-7f007ba50117.png)
 
-Utilizado conceitos de Packages, para separação das classes
+Utilizado conceito de Packages, para separação das classes
 
 ![image](https://user-images.githubusercontent.com/80652060/138638115-0d9552be-05b6-4ca3-ab96-92b431f5b3ce.png)
 
