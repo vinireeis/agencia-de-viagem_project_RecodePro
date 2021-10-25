@@ -1,7 +1,7 @@
 # AgenciaViagem-RecodePro-Project
 Projeto de avaliação do módulo 2, referente ao programa Recode Pro, de formação FullSTack.
 
-Primeiro realizado Diagrama de Classes UML de uma Agencia de Viagem.
+Realizado Diagrama de Classes UML de uma Agencia de Viagem.
 
 ![image](https://user-images.githubusercontent.com/80652060/138637818-822fce98-6765-4527-adcf-7f007ba50117.png)
 
