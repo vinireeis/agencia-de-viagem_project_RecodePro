@@ -19,6 +19,11 @@ Utilizado conceitos de Herança em Cliente e Vendedor e atributos com encapsulam
 
 ![image](https://user-images.githubusercontent.com/80652060/138637974-e65a50c0-2116-45a2-86bf-100043a15970.png)
 
+Utilizado conceito de associação
+
+![image](https://user-images.githubusercontent.com/80652060/138638610-86de38a4-dad4-4570-8c47-8de5ec9397de.png)
+
+
 Utilização de métodos get e set, além de read(listar) para diversos atributos.
 
 ![image](https://user-images.githubusercontent.com/80652060/138638237-2f8b89f7-03a0-46e8-8807-c122a2d9d636.png)
